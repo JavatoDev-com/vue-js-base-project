@@ -1,5 +1,8 @@
 # Vue JS CRUD with Vuetify, Axios, Spring Boot REST API
 
+<a href="https://javatodev.com/vue-js-crud-with-vuetify/" target="blank">
+    <img align="center" src="https://javatodev.com/wp-content/uploads/2020/12/Vue-JS-CRUD-with-REST-API-Axios-Vue-Router-and-Vuetify-800x450.png" alt="Vue JS CRUD with REST API, Axios, Vue Router and Vuetify"/></a>
+
 <p align="left">
 In this article, I’ll explain how we can develop the Vue JS frontend by consuming a REST API covering CRUD operations with multiple UI components.
 
@@ -70,8 +73,10 @@ yarn run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-<h1 align="center">Hi 👋, I'm Chinthaka Dinadasa</h1>
-<h3 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h3>
+<h2>Author Profile</h2>
+
+<h3 align="center">Hi 👋, I'm Chinthaka Dinadasa</h3>
+<h5 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h5>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javatodev" alt="javatodev" /></a> </p> -->
 
